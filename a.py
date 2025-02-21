@@ -1,1 +1,1 @@
-print("konnitiha")
+print("こんにちは")
